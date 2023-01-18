@@ -16,6 +16,11 @@ You can install jq on your system by running ```sudo apt-get install jq``` on Ub
 # Notes
 > This json file can be imported to Discord using Discord's API, for that you need to have bot token and developer access to the server, using which you can import these channels. Please note that you need to have permission to create channels in the server and also you need to have developer access to Discord API to use this script.
 
+> For complete format including permissions read this: https://support.discord.com/hc/en-us/community/posts/360047508592-Import-Export-server-presets-JSON
+
+
+# Template Channels
+
 The channel template includes the following:
 
 * welcome - Designed for new members to introduce themselves and get familiar with the server's rules and guidelines.
