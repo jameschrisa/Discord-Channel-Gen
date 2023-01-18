@@ -8,6 +8,10 @@ This python and Javascript files creates a dictionary with keys as the channel n
 
 For the Bash script version, the script uses the select command to display a menu of channel options for the user to select from. Once the user makes a selection, the script will display the corresponding channel header. You can run this script by making it executable, you can do that by typing chmod +x scriptname.sh and then you can run the script by typing ./scriptname.sh. You can customize this script to add or remove channels options and also you can add more information related to the channels as per your requirement.
 
+## Dependencies
+
+You can install jq on your system by running ```sudo apt-get install jq``` on Ubuntu or brew install jq on macOS.
+
 
 # Notes
 > This json file can be imported to Discord using Discord's API, for that you need to have bot token and developer access to the server, using which you can import these channels. Please note that you need to have permission to create channels in the server and also you need to have developer access to Discord API to use this script.
