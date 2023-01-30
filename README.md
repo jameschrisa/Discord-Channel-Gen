@@ -1,4 +1,4 @@
-! [Banner Text] (https://github.com/jameschrisa/Discord-Channel-Gen/blob/main/discordgen.png)
+![Banner Text] (https://github.com/jameschrisa/Discord-Channel-Gen/blob/main/discordgen.png "project banner")
 
 # Discord-Channel-Gen
 Generate channels for Developer Communities
